@@ -1,0 +1,12 @@
+canvas { background: #58A3A9; }
+
+
+body{
+    margin:0;
+    padding:0;
+}
+
+#canvas_wrapper{
+    width:530px;
+    margin:0 auto;
+}
